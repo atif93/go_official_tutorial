@@ -1,0 +1,1 @@
+My solutions to the exercises of the Go official tutorial [https://tour.golang.org/welcome/1].
